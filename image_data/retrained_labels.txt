@@ -1,0 +1,4 @@
+new chair
+new table
+new bed
+new cupboard
